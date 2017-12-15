@@ -1,0 +1,437 @@
+Checking ip: 192.104.54.0...No edits found from this IP
+Checking ip: 192.104.54.1...Found 1 edits from this IP:
+
+   (-48)   Morgan Bible   https://en.wikipedia.org/w/index.php?title=Morgan_Bible&diff=prev&oldid=4204587
+Checking ip: 192.104.54.2...No edits found from this IP
+Checking ip: 192.104.54.3...No edits found from this IP
+Checking ip: 192.104.54.4...Found 9 edits from this IP:
+
+   (+9)   Photography   https://en.wikipedia.org/w/index.php?title=Photography&diff=prev&oldid=5842054
+   (-25)   Photography   https://en.wikipedia.org/w/index.php?title=Photography&diff=prev&oldid=5787335
+   (+25)   Photography   https://en.wikipedia.org/w/index.php?title=Photography&diff=prev&oldid=5787318
+   (+68)   Photography   https://en.wikipedia.org/w/index.php?title=Photography&diff=prev&oldid=5787281
+   (+5)   Photography   https://en.wikipedia.org/w/index.php?title=Photography&diff=prev&oldid=5787047
+   (+1,330)   Photography   https://en.wikipedia.org/w/index.php?title=Photography&diff=prev&oldid=5786863
+   (+169)   Aquarium   https://en.wikipedia.org/w/index.php?title=Aquarium&diff=prev&oldid=5201932
+   (+14)   Aquarium   https://en.wikipedia.org/w/index.php?title=Aquarium&diff=prev&oldid=4607534
+   (+881)   Hamzanama   https://en.wikipedia.org/w/index.php?title=Hamzanama&diff=prev&oldid=2540573
+Checking ip: 192.104.54.5...No edits found from this IP
+Checking ip: 192.104.54.6...No edits found from this IP
+Checking ip: 192.104.54.7...No edits found from this IP
+Checking ip: 192.104.54.8...No edits found from this IP
+Checking ip: 192.104.54.9...No edits found from this IP
+Checking ip: 192.104.54.10...No edits found from this IP
+Checking ip: 192.104.54.11...No edits found from this IP
+Checking ip: 192.104.54.12...No edits found from this IP
+Checking ip: 192.104.54.13...No edits found from this IP
+Checking ip: 192.104.54.14...No edits found from this IP
+Checking ip: 192.104.54.15...No edits found from this IP
+Checking ip: 192.104.54.16...No edits found from this IP
+Checking ip: 192.104.54.17...No edits found from this IP
+Checking ip: 192.104.54.18...No edits found from this IP
+Checking ip: 192.104.54.19...No edits found from this IP
+Checking ip: 192.104.54.20...No edits found from this IP
+Checking ip: 192.104.54.21...Found 50 edits from this IP:
+
+   (+9)   Chevrolet Volt   https://en.wikipedia.org/w/index.php?title=Chevrolet_Volt&diff=prev&oldid=377002800
+   (+1)   Nekron   https://en.wikipedia.org/w/index.php?title=Nekron&diff=prev&oldid=373677800
+   (0)   KPXN-TV   https://en.wikipedia.org/w/index.php?title=KPXN-TV&diff=prev&oldid=370869899
+   (+22)   Nasrat Sharqi   https://en.wikipedia.org/w/index.php?title=Nasrat_Sharqi&diff=prev&oldid=361340424
+   (-5)   AUDIX   https://en.wikipedia.org/w/index.php?title=AUDIX&diff=prev&oldid=357859954
+   (+5)   AUDIX   https://en.wikipedia.org/w/index.php?title=AUDIX&diff=prev&oldid=357859894
+   (+25)   List of telephone operating companies   https://en.wikipedia.org/w/index.php?title=List_of_telephone_operating_companies&diff=prev&oldid=329734760
+   (+1)   Traffic collision avoidance system   https://en.wikipedia.org/w/index.php?title=Traffic_collision_avoidance_system&diff=prev&oldid=328882064
+   (+216)   Susan P. Crawford   https://en.wikipedia.org/w/index.php?title=Susan_P._Crawford&diff=prev&oldid=324100723
+   (+41)   Cars 2   https://en.wikipedia.org/w/index.php?title=Cars_2&diff=prev&oldid=322760373
+   (+115)   Why the lucky stiff   https://en.wikipedia.org/w/index.php?title=Why_the_lucky_stiff&diff=prev&oldid=322607946
+   (+427)   Naked DSL   https://en.wikipedia.org/w/index.php?title=Naked_DSL&diff=prev&oldid=321045530
+   (+255)   Naked DSL   https://en.wikipedia.org/w/index.php?title=Naked_DSL&diff=prev&oldid=321042870
+   (-121)   Jonathan Kozol   https://en.wikipedia.org/w/index.php?title=Jonathan_Kozol&diff=prev&oldid=315593263
+   (+107)   Cyber security standards   https://en.wikipedia.org/w/index.php?title=Cyber_security_standards&diff=prev&oldid=314331118
+   (+1)   Internet security   https://en.wikipedia.org/w/index.php?title=Internet_security&diff=prev&oldid=314330641
+   (+109)   Internet security   https://en.wikipedia.org/w/index.php?title=Internet_security&diff=prev&oldid=314330581
+   (-8)   Jerry Bruckheimer   https://en.wikipedia.org/w/index.php?title=Jerry_Bruckheimer&diff=prev&oldid=314149084
+   (+269)   Talk:Kidnapping of Jaycee Dugard   https://en.wikipedia.org/w/index.php?title=Talk:Kidnapping_of_Jaycee_Dugard&diff=prev&oldid=310569134
+   (+14)   Customer-premises equipment   https://en.wikipedia.org/w/index.php?title=Customer-premises_equipment&diff=prev&oldid=309979614
+   (+394)   Customer-premises equipment   https://en.wikipedia.org/w/index.php?title=Customer-premises_equipment&diff=prev&oldid=309979443
+   (+1,530)   Second Computer Inquiry   https://en.wikipedia.org/w/index.php?title=Second_Computer_Inquiry&diff=prev&oldid=309978761
+   (-5)   HP QuickTest Professional   https://en.wikipedia.org/w/index.php?title=HP_QuickTest_Professional&diff=prev&oldid=304883636
+   (+6)   HP QuickTest Professional   https://en.wikipedia.org/w/index.php?title=HP_QuickTest_Professional&diff=prev&oldid=304883576
+   (-77)   Elvis (disambiguation)   https://en.wikipedia.org/w/index.php?title=Elvis_(disambiguation)&diff=prev&oldid=301380325
+   (+76)   Elvis (disambiguation)   https://en.wikipedia.org/w/index.php?title=Elvis_(disambiguation)&diff=prev&oldid=301379794
+   (+162)   Skatepark   https://en.wikipedia.org/w/index.php?title=Skatepark&diff=prev&oldid=298799977
+   (+1)   Skatepark   https://en.wikipedia.org/w/index.php?title=Skatepark&diff=prev&oldid=298799924
+   (-28)   Skatepark   https://en.wikipedia.org/w/index.php?title=Skatepark&diff=prev&oldid=298799870
+   (-6)   Skatepark   https://en.wikipedia.org/w/index.php?title=Skatepark&diff=prev&oldid=298799804
+   (+34)   Skatepark   https://en.wikipedia.org/w/index.php?title=Skatepark&diff=prev&oldid=298798066
+   (-34)   Skatepark   https://en.wikipedia.org/w/index.php?title=Skatepark&diff=prev&oldid=298796875
+   (+6)   Skatepark   https://en.wikipedia.org/w/index.php?title=Skatepark&diff=prev&oldid=298796796
+   (+28)   Skatepark   https://en.wikipedia.org/w/index.php?title=Skatepark&diff=prev&oldid=298796659
+   (-1)   Skatepark   https://en.wikipedia.org/w/index.php?title=Skatepark&diff=prev&oldid=298796424
+   (-162)   Skatepark   https://en.wikipedia.org/w/index.php?title=Skatepark&diff=prev&oldid=298796181
+   (-77)   June 2009 Washington Metro train collision   https://en.wikipedia.org/w/index.php?title=June_2009_Washington_Metro_train_collision&diff=prev&oldid=298136227
+   (+5)   June 2009 Washington Metro train collision   https://en.wikipedia.org/w/index.php?title=June_2009_Washington_Metro_train_collision&diff=prev&oldid=298135653
+   (-20)   June 2009 Washington Metro train collision   https://en.wikipedia.org/w/index.php?title=June_2009_Washington_Metro_train_collision&diff=prev&oldid=298135301
+   (+26)   Federal Communications Commission   https://en.wikipedia.org/w/index.php?title=Federal_Communications_Commission&diff=prev&oldid=295589698
+   (-92)   Nick LaRocca   https://en.wikipedia.org/w/index.php?title=Nick_LaRocca&diff=prev&oldid=294008108
+   (-146)   Fingersmith (novel)   https://en.wikipedia.org/w/index.php?title=Fingersmith_(novel)&diff=prev&oldid=290128853
+   (-8)   Wavelength-division multiplexing   https://en.wikipedia.org/w/index.php?title=Wavelength-division_multiplexing&diff=prev&oldid=287074293
+   (+8)   Wavelength-division multiplexing   https://en.wikipedia.org/w/index.php?title=Wavelength-division_multiplexing&diff=prev&oldid=287074173
+   (+2)   Braid (video game)   https://en.wikipedia.org/w/index.php?title=Braid_(video_game)&diff=prev&oldid=285503909
+   (+3)   Bryan Talbot   https://en.wikipedia.org/w/index.php?title=Bryan_Talbot&diff=prev&oldid=284033064
+   (-25)   Saw IV   https://en.wikipedia.org/w/index.php?title=Saw_IV&diff=prev&oldid=282620808
+   (+13)   Music of Florida   https://en.wikipedia.org/w/index.php?title=Music_of_Florida&diff=prev&oldid=278011818
+   (-14)   Music of Florida   https://en.wikipedia.org/w/index.php?title=Music_of_Florida&diff=prev&oldid=278011728
+   (+14)   Music of Florida   https://en.wikipedia.org/w/index.php?title=Music_of_Florida&diff=prev&oldid=278011326
+Checking ip: 192.104.54.22...No edits found from this IP
+Checking ip: 192.104.54.23...No edits found from this IP
+Checking ip: 192.104.54.24...No edits found from this IP
+Checking ip: 192.104.54.25...No edits found from this IP
+Checking ip: 192.104.54.26...No edits found from this IP
+Checking ip: 192.104.54.27...No edits found from this IP
+Checking ip: 192.104.54.28...No edits found from this IP
+Checking ip: 192.104.54.29...No edits found from this IP
+Checking ip: 192.104.54.30...No edits found from this IP
+Checking ip: 192.104.54.31...No edits found from this IP
+Checking ip: 192.104.54.32...No edits found from this IP
+Checking ip: 192.104.54.33...No edits found from this IP
+Checking ip: 192.104.54.34...No edits found from this IP
+Checking ip: 192.104.54.35...No edits found from this IP
+Checking ip: 192.104.54.36...No edits found from this IP
+Checking ip: 192.104.54.37...No edits found from this IP
+Checking ip: 192.104.54.38...No edits found from this IP
+Checking ip: 192.104.54.39...No edits found from this IP
+Checking ip: 192.104.54.40...No edits found from this IP
+Checking ip: 192.104.54.41...No edits found from this IP
+Checking ip: 192.104.54.42...No edits found from this IP
+Checking ip: 192.104.54.43...No edits found from this IP
+Checking ip: 192.104.54.44...No edits found from this IP
+Checking ip: 192.104.54.45...No edits found from this IP
+Checking ip: 192.104.54.46...No edits found from this IP
+Checking ip: 192.104.54.47...No edits found from this IP
+Checking ip: 192.104.54.48...No edits found from this IP
+Checking ip: 192.104.54.49...No edits found from this IP
+Checking ip: 192.104.54.50...No edits found from this IP
+Checking ip: 192.104.54.51...No edits found from this IP
+Checking ip: 192.104.54.52...No edits found from this IP
+Checking ip: 192.104.54.53...No edits found from this IP
+Checking ip: 192.104.54.54...No edits found from this IP
+Checking ip: 192.104.54.55...No edits found from this IP
+Checking ip: 192.104.54.56...No edits found from this IP
+Checking ip: 192.104.54.57...No edits found from this IP
+Checking ip: 192.104.54.58...No edits found from this IP
+Checking ip: 192.104.54.59...No edits found from this IP
+Checking ip: 192.104.54.60...No edits found from this IP
+Checking ip: 192.104.54.61...No edits found from this IP
+Checking ip: 192.104.54.62...No edits found from this IP
+Checking ip: 192.104.54.63...No edits found from this IP
+Checking ip: 192.104.54.64...No edits found from this IP
+Checking ip: 192.104.54.65...No edits found from this IP
+Checking ip: 192.104.54.66...No edits found from this IP
+Checking ip: 192.104.54.67...No edits found from this IP
+Checking ip: 192.104.54.68...No edits found from this IP
+Checking ip: 192.104.54.69...No edits found from this IP
+Checking ip: 192.104.54.70...No edits found from this IP
+Checking ip: 192.104.54.71...No edits found from this IP
+Checking ip: 192.104.54.72...No edits found from this IP
+Checking ip: 192.104.54.73...No edits found from this IP
+Checking ip: 192.104.54.74...No edits found from this IP
+Checking ip: 192.104.54.75...No edits found from this IP
+Checking ip: 192.104.54.76...No edits found from this IP
+Checking ip: 192.104.54.77...Found 23 edits from this IP:
+
+   (-34)   Divorce in Islam   https://en.wikipedia.org/w/index.php?title=Divorce_in_Islam&diff=prev&oldid=531139678
+   (+35)   Divorce in Islam   https://en.wikipedia.org/w/index.php?title=Divorce_in_Islam&diff=prev&oldid=531139633
+   (+4)   Denard Span   https://en.wikipedia.org/w/index.php?title=Denard_Span&diff=prev&oldid=525706247
+   (+2)   Altiris   https://en.wikipedia.org/w/index.php?title=Altiris&diff=prev&oldid=523910576
+   (0)   Envelope theorem   https://en.wikipedia.org/w/index.php?title=Envelope_theorem&diff=prev&oldid=520931917
+   (+19)   Guillaume Bélibaste   https://en.wikipedia.org/w/index.php?title=Guillaume_B%C3%A9libaste&diff=prev&oldid=520013515
+   (+1)   Pierre Maury   https://en.wikipedia.org/w/index.php?title=Pierre_Maury&diff=prev&oldid=520012323
+   (0)   Freak Out!   https://en.wikipedia.org/w/index.php?title=Freak_Out!&diff=prev&oldid=515828619
+   (+81)   Peering   https://en.wikipedia.org/w/index.php?title=Peering&diff=prev&oldid=513733565
+   (-2)   Norah Lofts   https://en.wikipedia.org/w/index.php?title=Norah_Lofts&diff=prev&oldid=509477399
+   (+19)   North Farmington High School   https://en.wikipedia.org/w/index.php?title=North_Farmington_High_School&diff=prev&oldid=507744800
+   (+80)   Henry Rollins   https://en.wikipedia.org/w/index.php?title=Henry_Rollins&diff=prev&oldid=506740635
+   (0)   Reservoir Hill, Baltimore   https://en.wikipedia.org/w/index.php?title=Reservoir_Hill,_Baltimore&diff=prev&oldid=506245881
+   (0)   Ajit Pai   https://en.wikipedia.org/w/index.php?title=Ajit_Pai&diff=prev&oldid=504337764
+   (+17)   Ajit Pai   https://en.wikipedia.org/w/index.php?title=Ajit_Pai&diff=prev&oldid=504271264
+   (-100)   Ajit Pai   https://en.wikipedia.org/w/index.php?title=Ajit_Pai&diff=prev&oldid=504270570
+   (+248)   Telenet   https://en.wikipedia.org/w/index.php?title=Telenet&diff=prev&oldid=503331058
+   (0)   Wallace Stegner   https://en.wikipedia.org/w/index.php?title=Wallace_Stegner&diff=prev&oldid=499634903
+   (+22)   Tomasz Kuszczak   https://en.wikipedia.org/w/index.php?title=Tomasz_Kuszczak&diff=prev&oldid=498490146
+   (+319)   Henry James   https://en.wikipedia.org/w/index.php?title=Henry_James&diff=prev&oldid=492070552
+   (0)   Henry James   https://en.wikipedia.org/w/index.php?title=Henry_James&diff=prev&oldid=491630442
+   (+298)   Henry James   https://en.wikipedia.org/w/index.php?title=Henry_James&diff=prev&oldid=491630016
+   (-73)   Federal Communications Commission   https://en.wikipedia.org/w/index.php?title=Federal_Communications_Commission&diff=prev&oldid=489216984
+Checking ip: 192.104.54.78...No edits found from this IP
+Checking ip: 192.104.54.79...Found 49 edits from this IP:
+
+   (-203)   Corey Stewart (politician)   https://en.wikipedia.org/w/index.php?title=Corey_Stewart_(politician)&diff=prev&oldid=777198059
+   (+203)   Corey Stewart (politician)   https://en.wikipedia.org/w/index.php?title=Corey_Stewart_(politician)&diff=prev&oldid=777197859
+   (+62)   HC Kunlun Red Star   https://en.wikipedia.org/w/index.php?title=HC_Kunlun_Red_Star&diff=prev&oldid=767208582
+   (-541)   Hiraeth   https://en.wikipedia.org/w/index.php?title=Hiraeth&diff=prev&oldid=742933578
+   (+50)   West Orange High School (New Jersey)   https://en.wikipedia.org/w/index.php?title=West_Orange_High_School_(New_Jersey)&diff=prev&oldid=735711775
+   (0)   Djezzy   https://en.wikipedia.org/w/index.php?title=Djezzy&diff=prev&oldid=721100563
+   (-2)   Antipodes   https://en.wikipedia.org/w/index.php?title=Antipodes&diff=prev&oldid=673666400
+   (+2)   Ed Markey   https://en.wikipedia.org/w/index.php?title=Ed_Markey&diff=prev&oldid=673652314
+   (-48)   National Action Network   https://en.wikipedia.org/w/index.php?title=National_Action_Network&diff=prev&oldid=668468068
+   (0)   1969 NBA Finals   https://en.wikipedia.org/w/index.php?title=1969_NBA_Finals&diff=prev&oldid=659546827
+   (0)   Excited delirium   https://en.wikipedia.org/w/index.php?title=Excited_delirium&diff=prev&oldid=658886999
+   (-67)   Sir Gawain and the Green Knight   https://en.wikipedia.org/w/index.php?title=Sir_Gawain_and_the_Green_Knight&diff=prev&oldid=654400562
+   (+40)   ANRC   https://en.wikipedia.org/w/index.php?title=ANRC&diff=prev&oldid=651940720
+   (-4)   Spatial ETL   https://en.wikipedia.org/w/index.php?title=Spatial_ETL&diff=prev&oldid=637174986
+   (+1)   Spatial ETL   https://en.wikipedia.org/w/index.php?title=Spatial_ETL&diff=prev&oldid=637174936
+   (+52)   Spatial ETL   https://en.wikipedia.org/w/index.php?title=Spatial_ETL&diff=prev&oldid=637174532
+   (+74)   GTL   https://en.wikipedia.org/w/index.php?title=GTL&diff=prev&oldid=637174302
+   (+49)   GIS Day   https://en.wikipedia.org/w/index.php?title=GIS_Day&diff=prev&oldid=634568702
+   (+8)   Decimal degrees   https://en.wikipedia.org/w/index.php?title=Decimal_degrees&diff=prev&oldid=625235206
+   (+29)   Decimal degrees   https://en.wikipedia.org/w/index.php?title=Decimal_degrees&diff=prev&oldid=625235162
+   (+1)   Shchastya   https://en.wikipedia.org/w/index.php?title=Shchastya&diff=prev&oldid=617860045
+   (0)   K. C. Nicolaou   https://en.wikipedia.org/w/index.php?title=K._C._Nicolaou&diff=prev&oldid=615430932
+   (+28)   Valerie E. Caproni   https://en.wikipedia.org/w/index.php?title=Valerie_E._Caproni&diff=prev&oldid=612810503
+   (+1)   Satellite phone   https://en.wikipedia.org/w/index.php?title=Satellite_phone&diff=prev&oldid=612544957
+   (+35)   Scranton, Pennsylvania   https://en.wikipedia.org/w/index.php?title=Scranton,_Pennsylvania&diff=prev&oldid=609844188
+   (-1)   Bill Woodcock   https://en.wikipedia.org/w/index.php?title=Bill_Woodcock&diff=prev&oldid=605492247
+   (+94)   Voice over IP   https://en.wikipedia.org/w/index.php?title=Voice_over_IP&diff=prev&oldid=603774530
+   (+7)   List of current United States Senate committees   https://en.wikipedia.org/w/index.php?title=List_of_current_United_States_Senate_committees&diff=prev&oldid=602334629
+   (0)   United States 2008 wireless spectrum auction   https://en.wikipedia.org/w/index.php?title=United_States_2008_wireless_spectrum_auction&diff=prev&oldid=591031711
+   (-314)   Isaaq   https://en.wikipedia.org/w/index.php?title=Isaaq&diff=prev&oldid=585754864
+   (-444)   Trent Richardson   https://en.wikipedia.org/w/index.php?title=Trent_Richardson&diff=prev&oldid=572508021
+   (+52)   Whitmer High School   https://en.wikipedia.org/w/index.php?title=Whitmer_High_School&diff=prev&oldid=559624911
+   (+18)   Blindsight (Watts novel)   https://en.wikipedia.org/w/index.php?title=Blindsight_(Watts_novel)&diff=prev&oldid=551175454
+   (-56)   Federal Communications Commission   https://en.wikipedia.org/w/index.php?title=Federal_Communications_Commission&diff=prev&oldid=550508182
+   (+60)   Federal Communications Commission   https://en.wikipedia.org/w/index.php?title=Federal_Communications_Commission&diff=prev&oldid=550508021
+   (+81)   Julius Genachowski   https://en.wikipedia.org/w/index.php?title=Julius_Genachowski&diff=prev&oldid=546336800
+   (-1)   Internet Control Message Protocol   https://en.wikipedia.org/w/index.php?title=Internet_Control_Message_Protocol&diff=prev&oldid=542259810
+   (-265)   Multiverse   https://en.wikipedia.org/w/index.php?title=Multiverse&diff=prev&oldid=539699062
+   (-103)   White hole   https://en.wikipedia.org/w/index.php?title=White_hole&diff=prev&oldid=539696608
+   (-116)   Multiverse   https://en.wikipedia.org/w/index.php?title=Multiverse&diff=prev&oldid=539692845
+   (+289)   Talk:Enterprise architecture   https://en.wikipedia.org/w/index.php?title=Talk:Enterprise_architecture&diff=prev&oldid=538262462
+   (+49)   Talk:Star Trek Into Darkness   https://en.wikipedia.org/w/index.php?title=Talk:Star_Trek_Into_Darkness&diff=prev&oldid=535859375
+   (+10)   Golden Princess   https://en.wikipedia.org/w/index.php?title=Golden_Princess&diff=prev&oldid=535520437
+   (+100)   Darron Gibson   https://en.wikipedia.org/w/index.php?title=Darron_Gibson&diff=prev&oldid=510765883
+   (+11)   Charlie Adam   https://en.wikipedia.org/w/index.php?title=Charlie_Adam&diff=prev&oldid=509990741
+   (+17)   Charlie Adam   https://en.wikipedia.org/w/index.php?title=Charlie_Adam&diff=prev&oldid=509990603
+   (+41)   Charlie Adam   https://en.wikipedia.org/w/index.php?title=Charlie_Adam&diff=prev&oldid=509990115
+   (+2)   Ajit Pai   https://en.wikipedia.org/w/index.php?title=Ajit_Pai&diff=prev&oldid=504265748
+   (0)   Dave Strack   https://en.wikipedia.org/w/index.php?title=Dave_Strack&diff=prev&oldid=503344666
+Checking ip: 192.104.54.80...No edits found from this IP
+Checking ip: 192.104.54.81...No edits found from this IP
+Checking ip: 192.104.54.82...No edits found from this IP
+Checking ip: 192.104.54.83...No edits found from this IP
+Checking ip: 192.104.54.84...No edits found from this IP
+Checking ip: 192.104.54.85...No edits found from this IP
+Checking ip: 192.104.54.86...No edits found from this IP
+Checking ip: 192.104.54.87...No edits found from this IP
+Checking ip: 192.104.54.88...No edits found from this IP
+Checking ip: 192.104.54.89...No edits found from this IP
+Checking ip: 192.104.54.90...No edits found from this IP
+Checking ip: 192.104.54.91...No edits found from this IP
+Checking ip: 192.104.54.92...No edits found from this IP
+Checking ip: 192.104.54.93...No edits found from this IP
+Checking ip: 192.104.54.94...No edits found from this IP
+Checking ip: 192.104.54.95...No edits found from this IP
+Checking ip: 192.104.54.96...No edits found from this IP
+Checking ip: 192.104.54.97...No edits found from this IP
+Checking ip: 192.104.54.98...No edits found from this IP
+Checking ip: 192.104.54.99...No edits found from this IP
+Checking ip: 192.104.54.100...No edits found from this IP
+Checking ip: 192.104.54.101...No edits found from this IP
+Checking ip: 192.104.54.102...No edits found from this IP
+Checking ip: 192.104.54.103...No edits found from this IP
+Checking ip: 192.104.54.104...No edits found from this IP
+Checking ip: 192.104.54.105...No edits found from this IP
+Checking ip: 192.104.54.106...No edits found from this IP
+Checking ip: 192.104.54.107...No edits found from this IP
+Checking ip: 192.104.54.108...No edits found from this IP
+Checking ip: 192.104.54.109...No edits found from this IP
+Checking ip: 192.104.54.110...No edits found from this IP
+Checking ip: 192.104.54.111...No edits found from this IP
+Checking ip: 192.104.54.112...No edits found from this IP
+Checking ip: 192.104.54.113...No edits found from this IP
+Checking ip: 192.104.54.114...No edits found from this IP
+Checking ip: 192.104.54.115...No edits found from this IP
+Checking ip: 192.104.54.116...No edits found from this IP
+Checking ip: 192.104.54.117...No edits found from this IP
+Checking ip: 192.104.54.118...No edits found from this IP
+Checking ip: 192.104.54.119...No edits found from this IP
+Checking ip: 192.104.54.120...No edits found from this IP
+Checking ip: 192.104.54.121...No edits found from this IP
+Checking ip: 192.104.54.122...No edits found from this IP
+Checking ip: 192.104.54.123...No edits found from this IP
+Checking ip: 192.104.54.124...No edits found from this IP
+Checking ip: 192.104.54.125...No edits found from this IP
+Checking ip: 192.104.54.126...No edits found from this IP
+Checking ip: 192.104.54.127...No edits found from this IP
+Checking ip: 192.104.54.128...No edits found from this IP
+Checking ip: 192.104.54.129...No edits found from this IP
+Checking ip: 192.104.54.130...No edits found from this IP
+Checking ip: 192.104.54.131...No edits found from this IP
+Checking ip: 192.104.54.132...No edits found from this IP
+Checking ip: 192.104.54.133...No edits found from this IP
+Checking ip: 192.104.54.134...No edits found from this IP
+Checking ip: 192.104.54.135...No edits found from this IP
+Checking ip: 192.104.54.136...No edits found from this IP
+Checking ip: 192.104.54.137...No edits found from this IP
+Checking ip: 192.104.54.138...No edits found from this IP
+Checking ip: 192.104.54.139...No edits found from this IP
+Checking ip: 192.104.54.140...No edits found from this IP
+Checking ip: 192.104.54.141...No edits found from this IP
+Checking ip: 192.104.54.142...No edits found from this IP
+Checking ip: 192.104.54.143...No edits found from this IP
+Checking ip: 192.104.54.144...No edits found from this IP
+Checking ip: 192.104.54.145...No edits found from this IP
+Checking ip: 192.104.54.146...No edits found from this IP
+Checking ip: 192.104.54.147...No edits found from this IP
+Checking ip: 192.104.54.148...No edits found from this IP
+Checking ip: 192.104.54.149...No edits found from this IP
+Checking ip: 192.104.54.150...No edits found from this IP
+Checking ip: 192.104.54.151...No edits found from this IP
+Checking ip: 192.104.54.152...No edits found from this IP
+Checking ip: 192.104.54.153...No edits found from this IP
+Checking ip: 192.104.54.154...No edits found from this IP
+Checking ip: 192.104.54.155...No edits found from this IP
+Checking ip: 192.104.54.156...No edits found from this IP
+Checking ip: 192.104.54.157...No edits found from this IP
+Checking ip: 192.104.54.158...No edits found from this IP
+Checking ip: 192.104.54.159...No edits found from this IP
+Checking ip: 192.104.54.160...No edits found from this IP
+Checking ip: 192.104.54.161...No edits found from this IP
+Checking ip: 192.104.54.162...No edits found from this IP
+Checking ip: 192.104.54.163...No edits found from this IP
+Checking ip: 192.104.54.164...No edits found from this IP
+Checking ip: 192.104.54.165...No edits found from this IP
+Checking ip: 192.104.54.166...Found 11 edits from this IP:
+
+   (+481)   List of unreleased songs recorded by Pink Floyd   https://en.wikipedia.org/w/index.php?title=List_of_unreleased_songs_recorded_by_Pink_Floyd&diff=prev&oldid=464392393
+   (+44)   Dana Colley   https://en.wikipedia.org/w/index.php?title=Dana_Colley&diff=prev&oldid=454121617
+   (0)   Steve Harris (musician)   https://en.wikipedia.org/w/index.php?title=Steve_Harris_(musician)&diff=prev&oldid=442872748
+   (+20)   Walls of Jericho (album)   https://en.wikipedia.org/w/index.php?title=Walls_of_Jericho_(album)&diff=prev&oldid=438954596
+   (+203)   Walls of Jericho (album)   https://en.wikipedia.org/w/index.php?title=Walls_of_Jericho_(album)&diff=prev&oldid=438953935
+   (+184)   Bronski Beat   https://en.wikipedia.org/w/index.php?title=Bronski_Beat&diff=prev&oldid=435971682
+   (+75)   1999 in music   https://en.wikipedia.org/w/index.php?title=1999_in_music&diff=prev&oldid=422896787
+   (+56)   Peter Tork   https://en.wikipedia.org/w/index.php?title=Peter_Tork&diff=prev&oldid=418021122
+   (0)   HOLAP   https://en.wikipedia.org/w/index.php?title=HOLAP&diff=prev&oldid=397536352
+   (-2)   HOLAP   https://en.wikipedia.org/w/index.php?title=HOLAP&diff=prev&oldid=397536255
+   (+248)   Easy (Commodores song)   https://en.wikipedia.org/w/index.php?title=Easy_(Commodores_song)&diff=prev&oldid=394588439
+Checking ip: 192.104.54.167...No edits found from this IP
+Checking ip: 192.104.54.168...No edits found from this IP
+Checking ip: 192.104.54.169...No edits found from this IP
+Checking ip: 192.104.54.170...No edits found from this IP
+Checking ip: 192.104.54.171...No edits found from this IP
+Checking ip: 192.104.54.172...No edits found from this IP
+Checking ip: 192.104.54.173...No edits found from this IP
+Checking ip: 192.104.54.174...No edits found from this IP
+Checking ip: 192.104.54.175...No edits found from this IP
+Checking ip: 192.104.54.176...No edits found from this IP
+Checking ip: 192.104.54.177...No edits found from this IP
+Checking ip: 192.104.54.178...No edits found from this IP
+Checking ip: 192.104.54.179...Found 31 edits from this IP:
+
+   (-43)   Log-normal distribution   https://en.wikipedia.org/w/index.php?title=Log-normal_distribution&diff=prev&oldid=800458339
+   (-44)   Log-normal distribution   https://en.wikipedia.org/w/index.php?title=Log-normal_distribution&diff=prev&oldid=800458217
+   (-66)   Ballot access   https://en.wikipedia.org/w/index.php?title=Ballot_access&diff=prev&oldid=748538280
+   (-37)   Amorites   https://en.wikipedia.org/w/index.php?title=Amorites&diff=prev&oldid=733842997
+   (0)   KULF   https://en.wikipedia.org/w/index.php?title=KULF&diff=prev&oldid=727650692
+   (+5)   North American Numbering Plan   https://en.wikipedia.org/w/index.php?title=North_American_Numbering_Plan&diff=prev&oldid=727413642
+   (-5)   Bernardo O'Higgins   https://en.wikipedia.org/w/index.php?title=Bernardo_O%27Higgins&diff=prev&oldid=726658181
+   (+12)   History of Argentina   https://en.wikipedia.org/w/index.php?title=History_of_Argentina&diff=prev&oldid=726656742
+   (+94)   Phoebus Dhrymes   https://en.wikipedia.org/w/index.php?title=Phoebus_Dhrymes&diff=prev&oldid=715421294
+   (-2)   George Russell   https://en.wikipedia.org/w/index.php?title=George_Russell&diff=prev&oldid=678808150
+   (+21)   George Russell   https://en.wikipedia.org/w/index.php?title=George_Russell&diff=prev&oldid=678808111
+   (+177)   George Russell   https://en.wikipedia.org/w/index.php?title=George_Russell&diff=prev&oldid=678808038
+   (+9)   Toronto Blue Jays minor league players   https://en.wikipedia.org/w/index.php?title=Toronto_Blue_Jays_minor_league_players&diff=prev&oldid=673496925
+   (-48)   Barbara Fritchie   https://en.wikipedia.org/w/index.php?title=Barbara_Fritchie&diff=prev&oldid=660510777
+   (+19)   Andrew Rayel   https://en.wikipedia.org/w/index.php?title=Andrew_Rayel&diff=prev&oldid=654558665
+   (-66)   User talk:Matthew Ferguson 57   https://en.wikipedia.org/w/index.php?title=User_talk:Matthew_Ferguson_57&diff=prev&oldid=644699128
+   (+2,076)   Wikipedia talk:WikiProject Medicine   https://en.wikipedia.org/w/index.php?title=Wikipedia_talk:WikiProject_Medicine&diff=prev&oldid=644697754
+   (+159)   User talk:Matthew Ferguson 57   https://en.wikipedia.org/w/index.php?title=User_talk:Matthew_Ferguson_57&diff=prev&oldid=644696287
+   (+92)   Patellofemoral pain syndrome   https://en.wikipedia.org/w/index.php?title=Patellofemoral_pain_syndrome&diff=prev&oldid=643667627
+   (+460)   Patellofemoral pain syndrome   https://en.wikipedia.org/w/index.php?title=Patellofemoral_pain_syndrome&diff=prev&oldid=643667514
+   (+2)   Non-linear editing system   https://en.wikipedia.org/w/index.php?title=Non-linear_editing_system&diff=prev&oldid=628480554
+   (+81)   The Review of Litigation   https://en.wikipedia.org/w/index.php?title=The_Review_of_Litigation&diff=prev&oldid=621253922
+   (+102)   Mignon Clyburn   https://en.wikipedia.org/w/index.php?title=Mignon_Clyburn&diff=prev&oldid=612800294
+   (-1)   Coos County, Oregon   https://en.wikipedia.org/w/index.php?title=Coos_County,_Oregon&diff=prev&oldid=594287736
+   (+19)   Windy Run   https://en.wikipedia.org/w/index.php?title=Windy_Run&diff=prev&oldid=578732844
+   (+21)   Rickenbacker 4001   https://en.wikipedia.org/w/index.php?title=Rickenbacker_4001&diff=prev&oldid=569459681
+   (+13)   RabbitEars   https://en.wikipedia.org/w/index.php?title=RabbitEars&diff=prev&oldid=566849435
+   (+587)   RabbitEars   https://en.wikipedia.org/w/index.php?title=RabbitEars&diff=prev&oldid=566849128
+   (-120)   WDTV   https://en.wikipedia.org/w/index.php?title=WDTV&diff=prev&oldid=564780654
+   (-1)   Allen & Company   https://en.wikipedia.org/w/index.php?title=Allen_%26_Company&diff=prev&oldid=561537025
+   (+2)   Intelsat   https://en.wikipedia.org/w/index.php?title=Intelsat&diff=prev&oldid=555105308
+Checking ip: 192.104.54.180...No edits found from this IP
+Checking ip: 192.104.54.181...No edits found from this IP
+Checking ip: 192.104.54.182...No edits found from this IP
+Checking ip: 192.104.54.183...No edits found from this IP
+Checking ip: 192.104.54.184...No edits found from this IP
+Checking ip: 192.104.54.185...No edits found from this IP
+Checking ip: 192.104.54.186...No edits found from this IP
+Checking ip: 192.104.54.187...No edits found from this IP
+Checking ip: 192.104.54.188...No edits found from this IP
+Checking ip: 192.104.54.189...No edits found from this IP
+Checking ip: 192.104.54.190...No edits found from this IP
+Checking ip: 192.104.54.191...No edits found from this IP
+Checking ip: 192.104.54.192...No edits found from this IP
+Checking ip: 192.104.54.193...No edits found from this IP
+Checking ip: 192.104.54.194...No edits found from this IP
+Checking ip: 192.104.54.195...No edits found from this IP
+Checking ip: 192.104.54.196...No edits found from this IP
+Checking ip: 192.104.54.197...No edits found from this IP
+Checking ip: 192.104.54.198...No edits found from this IP
+Checking ip: 192.104.54.199...No edits found from this IP
+Checking ip: 192.104.54.200...No edits found from this IP
+Checking ip: 192.104.54.201...No edits found from this IP
+Checking ip: 192.104.54.202...No edits found from this IP
+Checking ip: 192.104.54.203...No edits found from this IP
+Checking ip: 192.104.54.204...No edits found from this IP
+Checking ip: 192.104.54.205...No edits found from this IP
+Checking ip: 192.104.54.206...No edits found from this IP
+Checking ip: 192.104.54.207...No edits found from this IP
+Checking ip: 192.104.54.208...No edits found from this IP
+Checking ip: 192.104.54.209...No edits found from this IP
+Checking ip: 192.104.54.210...No edits found from this IP
+Checking ip: 192.104.54.211...No edits found from this IP
+Checking ip: 192.104.54.212...No edits found from this IP
+Checking ip: 192.104.54.213...No edits found from this IP
+Checking ip: 192.104.54.214...No edits found from this IP
+Checking ip: 192.104.54.215...No edits found from this IP
+Checking ip: 192.104.54.216...No edits found from this IP
+Checking ip: 192.104.54.217...No edits found from this IP
+Checking ip: 192.104.54.218...No edits found from this IP
+Checking ip: 192.104.54.219...No edits found from this IP
+Checking ip: 192.104.54.220...No edits found from this IP
+Checking ip: 192.104.54.221...No edits found from this IP
+Checking ip: 192.104.54.222...No edits found from this IP
+Checking ip: 192.104.54.223...No edits found from this IP
+Checking ip: 192.104.54.224...No edits found from this IP
+Checking ip: 192.104.54.225...No edits found from this IP
+Checking ip: 192.104.54.226...No edits found from this IP
+Checking ip: 192.104.54.227...No edits found from this IP
+Checking ip: 192.104.54.228...No edits found from this IP
+Checking ip: 192.104.54.229...No edits found from this IP
+Checking ip: 192.104.54.230...No edits found from this IP
+Checking ip: 192.104.54.231...No edits found from this IP
+Checking ip: 192.104.54.232...No edits found from this IP
+Checking ip: 192.104.54.233...No edits found from this IP
+Checking ip: 192.104.54.234...No edits found from this IP
+Checking ip: 192.104.54.235...No edits found from this IP
+Checking ip: 192.104.54.236...No edits found from this IP
+Checking ip: 192.104.54.237...No edits found from this IP
+Checking ip: 192.104.54.238...No edits found from this IP
+Checking ip: 192.104.54.239...No edits found from this IP
+Checking ip: 192.104.54.240...No edits found from this IP
+Checking ip: 192.104.54.241...No edits found from this IP
+Checking ip: 192.104.54.242...No edits found from this IP
+Checking ip: 192.104.54.243...No edits found from this IP
+Checking ip: 192.104.54.244...No edits found from this IP
+Checking ip: 192.104.54.245...No edits found from this IP
+Checking ip: 192.104.54.246...No edits found from this IP
+Checking ip: 192.104.54.247...No edits found from this IP
+Checking ip: 192.104.54.248...No edits found from this IP
+Checking ip: 192.104.54.249...No edits found from this IP
+Checking ip: 192.104.54.250...No edits found from this IP
+Checking ip: 192.104.54.251...No edits found from this IP
+Checking ip: 192.104.54.252...No edits found from this IP
+Checking ip: 192.104.54.253...No edits found from this IP
+Checking ip: 192.104.54.254...No edits found from this IP
+Checking ip: 192.104.54.255...No edits found from this IP
