@@ -10,7 +10,7 @@ Scrape Wikipedia for edits made by FCC IP's
 ### Optional Arguments
 
 1. `python3 fccedits.py --help or -h`
-2. `python3 fccedits.py 192.104.54.0/24`
+2. `python3 fccedits.py <IP Address/Range>`
 
 ## Scans
 * [Thu Dec 14 20:49:52 2017 -0600](https://github.com/sa7mon/fccedits/blob/master/scans/12-14-17_20-49.txt)
